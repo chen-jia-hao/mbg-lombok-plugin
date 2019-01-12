@@ -160,3 +160,5 @@
 
 ```
 
+[通用mapper参考wiki](https://github.com/abel533/Mapper/wiki)
+
